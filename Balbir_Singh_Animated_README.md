@@ -59,7 +59,10 @@ I'm passionate about turning raw data into impactful business solutions. With ex
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BalbirSingh27&repo=demand-forecast-avnet&theme=radical" alt="Pinned Project">
+  <br>
+  <a href="https://github.com/BalbirSingh27/CIS-591-Property-Maintenance">View Property Maintenance Project</a>
 </p>
+
 
 ---
 
