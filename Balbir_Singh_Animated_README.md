@@ -74,6 +74,8 @@ I'm passionate about turning raw data into impactful business solutions. With ex
 <p align="center">
   <img src="https://img.shields.io/badge/Certified-Lean%20Six%20Sigma%20Green%20Belt-green?style=flat-square">
   <img src="https://img.shields.io/badge/Certified-Advanced%20SQL-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Certified-Data%20Analytics%20%26%20Visualization-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Certified-Supply%20Chain%20GE%20Aerospace-lightgrey?style=flat-square">
 </p>
 
 ---
