@@ -16,6 +16,7 @@
 
 I'm passionate about turning raw data into impactful business solutions. With expertise in **data analysis**, **dashboard development**, **forecasting**, and **automation**, I thrive in fast-paced environments, driving efficiency and strategic decision-making.
 
+
 ---
 
 ## 🛠 Technical Skills
