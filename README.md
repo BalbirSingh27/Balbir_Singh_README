@@ -12,10 +12,9 @@
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-I'm passionate about turning raw data into impactful business solutions. With expertise in **data analysis**, **dashboard development**, **forecasting**, and **automation**, I thrive in fast-paced environments, driving efficiency and strategic decision-making.
-
+I’m a Business & Data Analyst actively seeking opportunities to drive impact through data-driven solutions. With a Master’s in Business Analytics from Arizona State University’s W. P. Carey School of Business (completed May 2025), I’ve mastered Machine Learning, Unstructured Data Analytics, AI & Data Analytics Strategy, Advanced Marketing Analytics, Programming for AI, Enterprise Data Analytics, Decision Modeling, and Risk Management. Proficient in Python, SQL, Tableau, Power BI, and ML techniques like XGBoost, I transform raw data into actionable insights. A curious team player, I enjoy swimming, soccer, volleyball, strength training, skydiving, and adventure travel.
 
 ---
 
