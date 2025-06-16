@@ -47,13 +47,35 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
  
 ---
 
-## 🛠 Technical Skills
 
+## 🛠 Skills
+
+### Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=flat-square)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat-square)
+
+- **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Machine Learning,kaggle  
+- **Domains:** Supply Chain, Inventory Optimization, Risk Management  
+- **Tools:** Databricks, Microsoft Office, NLTK, Seaborn, Matplotlib, Pandas, Scikit-learn, Jupyter Notebook
+
+### Soft Skills
+- **Communication:** Presenting complex insights clearly to stakeholders  
+- **Problem-Solving:** Identifying root causes and crafting data-driven solutions  
+- **Team Collaboration:** Working effectively with cross-functional teams  
+- **Time Management:** Balancing multiple projects and meeting deadlines  
 
 - **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization  
 - **Domains:** Supply Chain, Inventory Optimization, Risk Management  
