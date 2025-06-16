@@ -44,7 +44,7 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
 
 
 
-🤝 Collaborate with teams to align insights with organizational goals
+ 
 ---
 
 ## 🛠 Technical Skills
