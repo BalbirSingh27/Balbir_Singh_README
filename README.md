@@ -14,8 +14,37 @@
 
 ## 👤 About Me
 
-I’m a Business & Data Analyst actively seeking opportunities to drive impact through data-driven solutions. With a Master’s in Business Analytics from Arizona State University’s W. P. Carey School of Business (completed May 2025), I’ve mastered Machine Learning, Unstructured Data Analytics, AI & Data Analytics Strategy, Advanced Marketing Analytics, Programming for AI, Enterprise Data Analytics, Decision Modeling, and Risk Management. Proficient in Python, SQL, Tableau, Power BI, and ML techniques like XGBoost, I transform raw data into actionable insights. A curious team player, I enjoy swimming, soccer, volleyball, strength training, skydiving, and adventure travel.
+I’m a passionate Business & Data Analyst seeking opportunities to drive strategic impact through data. I completed my Master’s in Business Analytics at Arizona State University’s W. P. Carey School of Business in May 2025, earning a $5,000 International Scholarship. My coursework in Machine Learning, Unstructured Data Analytics, AI & Data Analytics Strategy, Advanced Marketing Analytics, Programming for AI, Enterprise Data Analytics, Decision Modeling, and Risk Management equips me to solve complex challenges. Skilled in Python, SQL, Tableau, and Power BI, I’m energized by swimming, soccer, volleyball, strength training, skydiving, sketching, and adventure travel.
 
+
+
+🔍 What I Do
+
+
+
+
+
+📉 Craft predictive models with Machine Learning (e.g., XGBoost) to enhance supply chain efficiency
+
+
+
+📊 Design interactive Tableau and Power BI dashboards for actionable business insights
+
+
+
+🔧 Optimize workflows through Python and SQL automation, boosting operational performance
+
+
+
+🧠 Conduct sentiment analysis with NLTK to refine marketing strategies
+
+
+
+📈 Improve inventory and risk management with data-driven analytics
+
+
+
+🤝 Collaborate with teams to align insights with organizational goals
 ---
 
 ## 🛠 Technical Skills
