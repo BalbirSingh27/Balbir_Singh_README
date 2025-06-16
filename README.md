@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-I’m a passionate Business & Data Analyst seeking opportunities to drive strategic impact through data. I completed my Master’s in Business Analytics at Arizona State University’s W. P. Carey School of Business in May 2025, earning a $5,000 International Scholarship. My coursework in Machine Learning, Unstructured Data Analytics, AI & Data Analytics Strategy, Advanced Marketing Analytics, Programming for AI, Enterprise Data Analytics, Decision Modeling, and Risk Management equips me to solve complex challenges. Skilled in Python, SQL, Tableau, and Power BI, I’m energized by swimming, soccer, volleyball, strength training, skydiving, sketching, and adventure travel.
+I’m a passionate Business & Data Analyst seeking opportunities to drive strategic impact through data. I recently completed my Master’s in Business Analytics from Arizona State University’s W. P. Carey School of Business (May 2025), where I was awarded a **$5,000 International Scholarship** prior to enrollment in recognition of my academic potential. My coursework in Machine Learning, Unstructured Data Analytics, AI & Data Analytics Strategy, Advanced Marketing Analytics, Programming for AI, Enterprise Data Analytics, Decision Modeling, and Risk Management equips me to solve complex challenges. Skilled in Python, SQL, Tableau, and Power BI, I’m energized by swimming, soccer, volleyball, strength training, skydiving, sketching, and adventure travel.
 
 
 
