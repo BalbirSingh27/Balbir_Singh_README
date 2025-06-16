@@ -50,6 +50,8 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
 
 ## 🛠 Skills
 
+## 🛠 Skills
+
 ### Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=flat-square)
@@ -67,20 +69,9 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat-square)
 
-- **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Machine Learning,kaggle  
-- **Domains:** Supply Chain, Inventory Optimization, Risk Management  
-- **Tools:** Databricks, Microsoft Office, NLTK, Seaborn, Matplotlib, Pandas, Scikit-learn, Jupyter Notebook
-
-### Soft Skills
-- **Communication:** Presenting complex insights clearly to stakeholders  
-- **Problem-Solving:** Identifying root causes and crafting data-driven solutions  
-- **Team Collaboration:** Working effectively with cross-functional teams  
-- **Time Management:** Balancing multiple projects and meeting deadlines  
-
-- **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization  
-- **Domains:** Supply Chain, Inventory Optimization, Risk Management  
-- **Tools:** Databricks, Microsoft Office, NLTK, Seaborn, Matplotlib
-
+- **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Sentiment Analysis, Predictive Modeling, A/B Testing, Optimization Analysis  
+- **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  
+- **Tools:** Databricks, Microsoft Office, NLTK, Seaborn, Matplotlib, Pandas, Scikit-learn, Jupyter Notebook, NumPy, SciPy, Looker Studio, VS Code 
 ---
 
 ## 📊 Professional Experience
