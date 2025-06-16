@@ -79,8 +79,16 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
 - 📉 Built **XGBoost** models to predict shipments, improving accuracy by **35%**.  
 - 🔄 Reduced inventory mismatches by **15%** across 5 supply hubs.
 
+<p align="center">
+  <a href="https://github.com/BalbirSingh27/Capstone-Project-Demand-Forecast-in-Supply-Chain-AVNET">View Capstone Project: Demand Forecast for AVNET</a>
+</p>
+
 ### Shopping Reviews Sentiment Analysis
 - 🧠 Developed a **Python/NLTK** sentiment model on 10K+ reviews, boosting campaign targeting by **18%**.
+
+<p align="center">
+  <a href="https://github.com/BalbirSingh27/Shopping-Reviews-Sentiment">View Shopping Reviews Sentiment Analysis Project</a>
+</p>
 
 ### Property Maintenance Trends
 - 🏘 Analyzed city complaint data to identify high-risk areas.  
