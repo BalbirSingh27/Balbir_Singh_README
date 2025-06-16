@@ -12,9 +12,14 @@
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-I'm passionate about turning raw data into impactful business solutions. With expertise in **data analysis**, **dashboard development**, **forecasting**, and **automation**, I thrive in fast-paced environments, driving efficiency and strategic decision-making.
+Hi, I'm Balbir Singh, and I recently completed my Master’s in Business Analytics from Arizona State University in May 2025. During my time in the program, I explored different areas of analytics including machine learning, forecasting, unstructured data, business intelligence, and data strategy. 
+
+I’ve worked with tools like Python, SQL, Excel, Power BI, and Tableau, and I enjoy applying them to solve real-world business problems. My interest lies in using data not just to analyze the past, but to help drive smarter decisions going forward. I like turning messy, raw data into something clear and valuable.
+
+I’m curious, always learning, and ready to take on challenges that let me apply what I know to create real impact.
+.
 
 
 ---
@@ -100,3 +105,4 @@ I'm passionate about turning raw data into impactful business solutions. With ex
 <p align="center">
   <em>Let's collaborate to drive data-driven success! 🚀</em>
 </p>
+in this about me section please make it like im seeking job opportunities and also i have knowldge about ml and otehr techincal 
