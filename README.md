@@ -47,9 +47,6 @@ I’m a passionate Business & Data Analyst seeking opportunities to drive strate
  
 ---
 
-
-## 🛠 Skills
-
 ## 🛠 Skills
 
 ### Technical Skills
