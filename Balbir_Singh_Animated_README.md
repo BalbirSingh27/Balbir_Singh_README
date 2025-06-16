@@ -1,4 +1,3 @@
-# 📄 Business & Data Analyst
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BalbirSingh27/animated-name/main/name-animation.gif" width="200" alt="Balbir Singh Fade Animation">
