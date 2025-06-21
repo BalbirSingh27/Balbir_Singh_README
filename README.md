@@ -1,19 +1,3 @@
-# 📄 Balbir Singh – Business & Data Analyst
-
-<style>
-  .glow-text {
-    animation: glow 2s ease-in-out infinite alternate;
-  }
-
-  @keyframes glow {
-    0% {
-      text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f, 0 0 20px #0ff;
-    }
-    100% {
-      text-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #f0f, 0 0 40px #f0f;
-    }
-  }
-</style>
 
 <div align="center">
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
