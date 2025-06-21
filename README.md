@@ -1,53 +1,10 @@
-<h1 class="intro">
-  <span class="wave">👋</span>
-  <span class="type-text">Hi, I'm Balbir Singh!</span>
-</h1>
-/* Fade and slide animation */
-.intro {
-  font-size: 2rem;
-  font-weight: bold;
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInUp 1.5s ease-out forwards;
-}
+# 👋 Hi, I'm Balbir Singh!
 
-@keyframes fadeInUp {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+*Business & Data Analyst | Transforming Data into Actionable Insights*  
+**MS in Business Analytics @ ASU W. P. Carey School of Business**
 
-/* Typing animation */
-.type-text {
-  display: inline-block;
-  overflow: hidden;
-  border-right: 2px solid black;
-  white-space: nowrap;
-  width: 0;
-  animation: typing 3s steps(30, end) forwards;
-}
+[📧 Email](mailto:bsingh73@asu.edu) • [🔗 LinkedIn](https://linkedin.com/in/bsingh27) • [💻 GitHub](https://github.com/BalbirSingh27)
 
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-/* Optional: waving emoji animation */
-.wave {
-  display: inline-block;
-  animation: wave 2s infinite;
-}
-
-@keyframes wave {
-  0%, 60%, 100% { transform: rotate(0deg); }
-  20% { transform: rotate(15deg); }
-  40% { transform: rotate(-10deg); }
-}
 
 <div align="center">
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
