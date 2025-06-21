@@ -1,22 +1,39 @@
 # 📄 Balbir Singh – Business & Data Analyst
 
-<h1 align="center">👋 Hi, I'm Balbir Singh!</h1>
-<p align="center">
-  <em>Business & Data Analyst | Transforming Data into Actionable Insights</em><br>
-  MS in Business Analytics @ ASU W. P. Carey School of Business
-</p>
+<style>
+  .glow-text {
+    animation: glow 2s ease-in-out infinite alternate;
+  }
 
-<p align="center">
-  <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-bsingh73@asu.edu-blueviolet?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-bsingh27-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/BalbirSingh27"><img src="https://img.shields.io/badge/GitHub-BalbirSingh27-black?style=flat-square&logo=github"></a>
-</p>
+  @keyframes glow {
+    0% {
+      text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f, 0 0 20px #0ff;
+    }
+    100% {
+      text-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #f0f, 0 0 40px #f0f;
+    }
+  }
+</style>
+
+<div align="center">
+  <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
+  <p class="glow-text">
+    <em>Business & Data Analyst | Transforming Data into Actionable Insights</em><br>
+    MS in Business Analytics @ ASU W. P. Carey School of Business
+  </p>
+
+  <p>
+    <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-bsingh73@asu.edu-blueviolet?style=flat-square&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-bsingh27-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://github.com/BalbirSingh27"><img src="https://img.shields.io/badge/GitHub-BalbirSingh27-black?style=flat-square&logo=github"></a>
+  </p>
+</div>
 
 ---
 
 ## 👤 About Me
 
-I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics  from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science (3.4/4.0), equips me to tackle complex challenges. Skilled in **Python**, **SQL**, **Tableau**, and **Power BI**, I’m fueled by curiosity and a global perspective. Outside work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
+I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics (3.88/4.0) from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science (3.4/4.0), equips me to tackle complex challenges. Skilled in **Python**, **SQL**, **Tableau**, and **Power BI**, I’m fueled by curiosity and a global perspective. Outside work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
 
 ---
 
@@ -152,8 +169,10 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 
 <p align="center">
   <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-blueviolet?style=for-the-badge&logo=gmail"></a>
+  <a href="https://app.joinhandshake.com/profiles/hcx7fd"><img src="https://img.shields.io/badge/Handshake-Profile-green?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p> 
+</p>
+
 <p align="center">
   <em>Let's collaborate to drive data-driven success! 🚀</em>
 </p>
