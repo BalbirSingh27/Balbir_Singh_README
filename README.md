@@ -155,7 +155,7 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
   <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
  <a href="https://app.joinhandshake.com/profiles/hcx7fd"><img src="https://img.shields.io/badge/Handshake-Profile-green?style=for-the-badge"></a>
-
+</p>
 <p align="center">
   <em>Let's collaborate to drive data-driven success! 🚀</em>
 </p>
