@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Balbir Singh!
-
-*Business & Data Analyst | Transforming Data into Actionable Insights*  
-**MS in Business Analytics @ ASU W. P. Carey School of Business**
-
-[📧 Email](mailto:bsingh73@asu.edu) • [🔗 LinkedIn](https://linkedin.com/in/bsingh27) • [💻 GitHub](https://github.com/BalbirSingh27)
-
 
 <div align="center">
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
