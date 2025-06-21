@@ -154,7 +154,7 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
   <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-blueviolet?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
-
+<a href="https://app.joinhandshake.com/profiles/hcx7fd"><img src="https://img.shields.io/badge/Handshake-Profile-green?style=for-the-badge"></a>
 <p align="center">
   <em>Let's collaborate to drive data-driven success! 🚀</em>
 </p>
